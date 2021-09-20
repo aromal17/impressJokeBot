@@ -1,7 +1,7 @@
 # impressJokeBot
 This is a basic chabot application where the user has option to choose the category from which he/she wishes to read the joke from.
 the bot can be found in telegram with username as :**@ImpressJokeBot**
-
+> Please note that the application fetches user's username to make database updation
 ### Added features :
 - 3 jokes category (currently with sample jokes for each category).
 - implemented Jokes category as separate button.
